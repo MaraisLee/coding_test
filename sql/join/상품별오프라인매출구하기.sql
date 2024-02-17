@@ -1,0 +1,9 @@
+-- [문제] https://school.programmers.co.kr/learn/courses/30/lessons/131533 
+
+SELECT P.PRODUCT_CODE,
+    SUM(SALES_AMOUNT) * P.PRICE AS TOTAL
+FROM PRODUCT P
+INNER JOIN OFFLINE_SALE OS 
+ON P.PRODUCT_ID = OS.PRODUCT_ID 
+GROUP BY P.PRODUCT_CODE -- 합을 구하기위해 그룹화, 상품코드 별
+ORDER BY TOTAL DESC, PRODUCT_CODE ASC
