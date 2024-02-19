@@ -10,7 +10,8 @@
 ### 📙 이코테 기출문제
 
 
-[➡️ greedy](이코테기출문제/greedy)
+[greedy](이코테기출문제/greedy)
+[구현](이코테기출문제/구현)
 
 -------
 
@@ -18,8 +19,7 @@
 #### - 코딩테스트 고득점 Kit __ [🔗문제](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 
 
-[➡️ 완전탐색](고득점kit/완전탐색)
-
+[완전탐색](고득점kit/완전탐색)
 
 <br/>
 
