@@ -1,0 +1,7 @@
+-- https://school.programmers.co.kr/learn/courses/30/lessons/59412
+
+SELECT HOUR(DATETIME) AS HOUR, COUNT(*) AS COUNT -- n시만 나오게
+FROM ANIMAL_OUTS
+WHERE HOUR(DATETIME) >= 9 AND HOUR(DATETIME) < 20 -- 9:00 ~ 19:59
+GROUP BY HOUR(DATETIME)
+ORDER BY HOUR(DATETIME)

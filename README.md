@@ -22,3 +22,5 @@
 
 
 [JOIN](sql/join/)
+
+[GROUP BY](sql/group_by/)
