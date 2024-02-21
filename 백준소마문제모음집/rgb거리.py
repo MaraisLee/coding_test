@@ -5,7 +5,7 @@ n = int(input())
 d = [0] * n 
 for i in range(n):
     d[i] = list(map(int,input().split()))
-    
+print(d)
 for i in range(1, n):
     # 여기서 첫번째집 최소값을 더해주기때문에 1부터 시작 
     d[i][0] = min(d[i-1][1],d[i-1][2]) + d[i][0]

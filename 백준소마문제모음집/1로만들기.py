@@ -1,4 +1,4 @@
-# 다이나믹 프로그래밍
+# 다이나믹 프로그래밍, 실버3
 # https://www.acmicpc.net/problem/1463
 
 n = int(input())
