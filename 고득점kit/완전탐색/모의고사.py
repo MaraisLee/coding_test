@@ -1,4 +1,4 @@
-# [링크] https://school.programmers.co.kr/learn/courses/30/lessons/42840
+# [링크] (https://school.programmers.co.kr/learn/courses/30/lessons/42840)
 def solution(answers):
     first = [1,2,3,4,5]
     second = [2,1,2,3,2,4,2,5]
