@@ -25,7 +25,6 @@
 
 [완전탐색](고득점kit/완전탐색)
 
-<br/>
 
 #### - SQL 고득점 kit __ [🔗문제](https://school.programmers.co.kr/learn/challenges?tab=sql_practice_kit)
 
@@ -33,3 +32,8 @@
 [JOIN](sql/join/)
 
 [GROUP BY](sql/group_by/)
+
+
+#### - Kakao Internship 모음집 __ [🔗문제](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&languages=javascript&partIds=58464%2C37527%2C31236%2C17214%2C22586%2C18498%2C17931)
+
+[풀이 바로가기](프로그래머스_kakao_Internship)
