@@ -37,3 +37,8 @@
 #### - Kakao Internship 모음집 __ [🔗문제](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc&languages=javascript&partIds=58464%2C37527%2C31236%2C17214%2C22586%2C18498%2C17931)
 
 [풀이 바로가기](프로그래머스_kakao_Internship)
+
+
+#### -leetcode Top 100 Liked Questions __ [🔗문제](https://leetcode.com/problemset/algorithms/?page=1&difficulty=MEDIUM&listId=79h8rn6&sorting=W3sic29ydE9yZGVyIjoiREVTQ0VORElORyIsIm9yZGVyQnkiOiJBQ19SQVRFIn1d)
+
+[풀이 바로가기](leetcode)
